@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 aaa
 
 bb
@@ -6,6 +5,3 @@ bb
 222
 git 
  mmm
- bbbbb
-=======
->>>>>>> parent of 3c69b20 (2.txt)
